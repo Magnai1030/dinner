@@ -5,7 +5,7 @@ export default function Page() {
 
   return (
     <main
-      className="h-screen w-full flex items-center justify-center relative text-center text-white"
+      className="h-screen w-full flex items-center justify-center relative text-center text-white bg-black"
     >
       <div className="h-screen w-full relative">
         <LightRays
